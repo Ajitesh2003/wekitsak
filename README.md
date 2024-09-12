@@ -2,6 +2,11 @@
 
 This is a React Native application developed using `create-expo-app`. This README provides setup instructions, details on third-party libraries used, and insights into the UX design choices made.
 
+## Demo
+
+**Doctor's Dashboard:**
+<iframe src="[https://www.loom.com/embed/your-video-id](https://www.loom.com/share/c905a84cf20c433b8dfb3c880dff9bcf)" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Setup Instructions
 
 Follow these steps to run the app on your local machine:
