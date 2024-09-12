@@ -7,6 +7,10 @@ This is a React Native application developed using `create-expo-app`. This READM
 **Doctor's Dashboard:**
 <iframe src="https://www.loom.com/share/c905a84cf20c433b8dfb3c880dff9bcf" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+
+**Patient's HomeScreen:**
+<iframe src="https://www.loom.com/share/76ae84ec007145f2811a59c50cf42515" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Setup Instructions
 
 Follow these steps to run the app on your local machine:
