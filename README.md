@@ -36,9 +36,11 @@ This will open the Expo Developer Tools in your default browser. You can then us
 ```
 ## Third-Party Libraries Used
 
-expo: Provides a set of tools and services for developing React Native apps.
-react-navigation: Library for routing and navigation in React Native apps.
-react-native-vector-icons: Customizable icons for React Native.
+`expo`: Provides a set of tools and services for developing React Native apps.
+
+`react-navigation`: Library for routing and navigation in React Native apps.
+
+`react-native-vector-icons`: Customizable icons for React Native.
 
 ## UX Design Choices
 
